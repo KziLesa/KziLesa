@@ -6,16 +6,16 @@ Outside of data science, I enjoy a variety of sports and activities — from bas
 
 ## **Project portfolio:**
 
-- [Analysis and recognition of CrossFit movements from data from inertial sensors] (./CrossfitAnalysisRecognition.pdf)
+- [Analysis and recognition of CrossFit movements from data from inertial sensors](./CrossfitAnalysisRecognition.pdf)
 
 ## **Contact:**  
 ✉️ binkewin@gmail.com  
 ✉️ kewin.bindzi@etu.mines-ales.fr  
 
-##**LinkedIn:**  
+## **LinkedIn:**  
 [www.linkedin.com/in/kewin-bindzi-8ba54b254](https://www.linkedin.com/in/kewin-bindzi-8ba54b254)
 
-##**Fun fact:**  
+## **Fun fact:**  
 I like to train my memory and have memorised many very random things !
 
 ---
