@@ -5,7 +5,7 @@ I'm a freshly graduated Data Scientist, passionate about applying AI and machine
 Outside of data science, I enjoy a variety of sports and activities — from basketball, inline skating, and rock climbing to chess, darts, and bowling. I usually prefer being actively involved rather than just watching. I'm also into cooking !
 
 **Personal projects:**
-Analysis and recognition of CrossFit movements from data from inertial sensors
+[Analysis and recognition of CrossFit movements from data from inertial sensors] (./CrossfitAnalysisRecognition.pdf)
 
 **Contact:**  
 ✉️ binkewin@gmail.com  
