@@ -6,7 +6,7 @@ Outside of data science, I enjoy a variety of sports and activities — from bas
 
 ## **Project portfolio:**
 For each project I made a one page review of the project that explains the goal, the method and the results !
-- [Analysis and recognition of CrossFit movements from data from inertial sensors](./CrossfitAnalysisRecognition.pdf)
+- [Analysis and recognition of CrossFit movements from data from inertial sensors](./CrossfitAnalysisRecognition.pdf)  
   Develop a system that classifies twelve types of exercises using 3-axis acceleration and altitude data, and counts repetitions for each exercise.
 
 ## **Contact:**  
