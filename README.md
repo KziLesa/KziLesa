@@ -1,8 +1,11 @@
 ## About Me
 
-I'm a freshly graduated Data Scientist, passionate about applying AI and machine learning to real-world domains and witnessing how these technologies evolve. My expertise spans regression and classification models, as well as large language models (LLMs). I am always eager to learn and contribute, bringing a curious mindset and a desire to make an impact.
+I'm a freshly graduated Data Scientist, passionate about applying AI and machine learning to real-world domains and witnessing how these technologies evolve. My expertise spans regression and classification models, as well LLMs. I am always eager to learn and contribute, bringing a curious mindset and a desire to make an impact.
 
-Outside of data science, I enjoy a wide range of sports — from basketball, badminton, tennis, and rock climbing, to chess. I also love to challenge myself by training my memory.
+Outside of data science, I enjoy a variety of sports and activities — from basketball, inline skating, and rock climbing to chess, darts, and bowling. I usually prefer being actively involved rather than just watching. I'm also into cooking !
+
+**Personal projects:**
+
 
 **Contact:**  
 ✉️ binkewin@gmail.com  
